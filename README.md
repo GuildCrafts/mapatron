@@ -2,6 +2,8 @@
 
 Behold!
 
+This map is designed to show the large, general areas of web development.
+
 
 - [HTML and CSS](./HTML and CSS)
 - [HTTP](./HTTP)
@@ -15,7 +17,8 @@ Behold!
   - [JavaScript in the browser](./The Browser/JavaScript in the browser)
   - [Chrome Developer Tools](./The Browser/Chrome Developer Tools)
 - [Persistence](./Persistence)
-  - [Relational Databases and SQL](./Persistence/Relational Databases and SQL)
+  - [SQL](./Persistence/SQL)
+  - [Postgres](./Persistence/Postgres)
 - [Deployment and Operations](./Deployment and Operations)
 - [Problem Solving](./Problem Solving)
 - [Software Development](./Software Development)
